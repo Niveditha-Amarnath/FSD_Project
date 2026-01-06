@@ -28,7 +28,6 @@ Libraries & Tools
 - 
 # Project Structure 📂
 FSD pro/
-│
 ├── movie-reservation-frontend/
 │   ├── node_modules/
 │   ├── public/
@@ -39,7 +38,6 @@ FSD pro/
 │   │   ├── App.css
 │   │   ├── index.css
 │   │   └── main.jsx
-│   │
 │   ├── index.html
 │   ├── package.json
 │   ├── eslint.config.js
